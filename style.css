@@ -5,6 +5,11 @@ body {
 	font-size: 1em;
 }
 
+header {
+	background: #456; 
+	color: white;
+}
+
 
 #wrapper {
 	margin: 0;
