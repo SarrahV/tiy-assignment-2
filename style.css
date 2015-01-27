@@ -17,6 +17,7 @@ footer {
 	color: #def; 
 	text-align: right;
 	padding: 5px;
+	clear: both;
 }
 
 #wrapper {
@@ -30,6 +31,8 @@ footer {
 	border-radius: 4px; 
 	margin: 5px;
 	height: 150px;
+	min-width: 100px;
+	float: left;
 }
 
 .feature h3 {
