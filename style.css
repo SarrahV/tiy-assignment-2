@@ -25,3 +25,7 @@ header {
 	display: inline-block; 
 	margin: 5px;
 }
+
+.feature h3 {
+	color:green;
+}
