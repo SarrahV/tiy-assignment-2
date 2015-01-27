@@ -8,10 +8,20 @@ body {
 header {
 	background: #456; 
 	color: white;
+	padding: 2px;
+	text-align: center;
 }
 
 
 #wrapper {
 	margin: 0;
-	padding: 0;
+	padding: 10px;
+}
+
+.feature {
+	background: #e6e9ec; 
+	padding: 10px; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin: 5px;
 }
